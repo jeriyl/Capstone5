@@ -25,9 +25,10 @@ Utilizing supervised learning techniques, this project aims to predict the selli
 This project provides accurate predictions for both the product's selling price and status through the implementation of various machine learning techniques. With its user-friendly interface, it offers an accessible environment for users to interact with and make informed decisions based on the model's outputs.
 
 ## Project Previw ##
-<img width="959" alt="image" src="https://github.com/jeriyl/Capstone5/assets/125750321/2004c0eb-1994-4dad-bef3-cca791a1a384">
-<img width="946" alt="image" src="https://github.com/jeriyl/Capstone5/assets/125750321/5b6e4bad-88d2-44b7-b038-f04463d9847d">
-<img width="943" alt="image" src="https://github.com/jeriyl/Capstone5/assets/125750321/b3aa4f93-d368-495f-b515-1ab35c47d1b6">
+<img width="957" alt="image" src="https://github.com/jeriyl/Capstone5/assets/125750321/2d73b010-cb86-4baf-b11e-c1e404102d37">
+<img width="954" alt="image" src="https://github.com/jeriyl/Capstone5/assets/125750321/007efc4b-4ab3-4936-98c1-a7ea3238f9fb">
+<img width="949" alt="image" src="https://github.com/jeriyl/Capstone5/assets/125750321/5e274180-4ff3-4ec0-858d-07053574e795">
+
 
 
 
